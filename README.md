@@ -14,6 +14,9 @@ The management team at AdventureWorks required a dynamic, interactive tool to tr
   * Analyzing **product-level trends** to optimize inventory and marketing.
   * Identifying **high-value customers** for targeted engagement.
 
+## 📂 Dataset
+<a href="Adventure Works Raw Data/AdventureWorks Raw Data"> AdventureWorks DataSet</a>
+
 ## 📊 Key Features & Analysis
 
 The resulting Power BI dashboard is highly interactive and addresses all core business requirements through dedicated reports:
@@ -47,8 +50,6 @@ The resulting Power BI dashboard is highly interactive and addresses all core bu
 
 ## 🖼️ Dashboard Screenshots
 
-*(Replace the placeholder links below with the actual paths or links to your images in the repository)*
-
 | Dashboard Component | Description |
 | :--- | :--- |
 | **Executive Dashboard** | High-level KPI summary and overall performance metrics. | 
@@ -69,7 +70,7 @@ The resulting Power BI dashboard is highly interactive and addresses all core bu
 
 | Name | Role | Contact |
 | :--- | :--- | :--- |
-| **[SaiKarthik]** | Business Intelligence Analyst | [www.linkedin.com/in/saikarthik26] |
+| **SaiKarthik** | Business Intelligence Analyst | [www.linkedin.com/in/saikarthik26] |
 | | | [saikarthik2601@gmail.com] |
 
 -----
