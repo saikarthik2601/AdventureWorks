@@ -14,8 +14,12 @@ The management team at AdventureWorks required a dynamic, interactive tool to tr
   * Analyzing **product-level trends** to optimize inventory and marketing.
   * Identifying **high-value customers** for targeted engagement.
 
+-----
+
 ## 📂 Dataset
 <a href="Adventure Works Raw Data/AdventureWorks Raw Data"> AdventureWorks DataSet</a>
+
+-----
 
 ## 📊 Key Features & Analysis
 
