@@ -45,28 +45,6 @@ The resulting Power BI dashboard is highly interactive and addresses all core bu
 
 -----
 
-## 🛠️ Setup and Installation
-
-To view and interact with the Power BI report locally, follow these steps:
-
-### Prerequisites
-
-1.  **Microsoft Power BI Desktop** installed on your system.
-
-### Running the Report
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [Your Repository URL]
-    ```
-2.  **Open the Project File:**
-      * Navigate to the cloned directory.
-      * Open the file named `AdventureWorks_BI_Dashboard.pbix` (or similar file name).
-3.  **Data Refresh (If necessary):**
-      * Power BI may prompt you to refresh the data connections. Ensure the raw CSV files are placed in the directory structure expected by the `.pbix` file.
-
------
-
 ## 🖼️ Dashboard Screenshots
 
 *(Replace the placeholder links below with the actual paths or links to your images in the repository)*
