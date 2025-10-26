@@ -74,9 +74,7 @@ The resulting Power BI dashboard is highly interactive and addresses all core bu
 
 | Name | Role | Contact |
 | :--- | :--- | :--- |
-| **SaiKarthik** | Business Intelligence Analyst | [www.linkedin.com/in/saikarthik26] |
-| | | [saikarthik2601@gmail.com] |
+| **SaiKarthik** | Business Intelligence Analyst | www.linkedin.com/in/saikarthik26 |
+| | | saikarthik2601@gmail.com |
 
 -----
-
-This README is designed to give anyone visiting your repo a complete and professional understanding of your project's scope, deliverables, and technical implementation\! Good luck with your upload\!
