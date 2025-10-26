@@ -51,10 +51,17 @@ The resulting Power BI dashboard is highly interactive and addresses all core bu
 
 | Dashboard Component | Description |
 | :--- | :--- |
-| **Executive Dashboard** | High-level KPI summary and overall performance metrics. |
+| **Executive Dashboard** | High-level KPI summary and overall performance metrics. | 
 | **Customer Details** | Breakdown of sales and profit by individual customers. |
 | **Product Details** | Performance analysis across product categories and subcategories. |
 | **Sales Territory Map** | Geographic visualization of sales performance. |
+
+<img width="1920" height="906" alt="Executive Dashboard" src="Dashboard/Dashboard.png" /> 
+<img width="1920" height="906" alt="Customer Details" src="Dashboard/Customer Details.png" /> 
+<img width="1920" height="906" alt="Product Details" src="Dashboard/Product Details.png" /> 
+<img width="1920" height="906" alt="Sales Territory Map" src="Dashboard/Map.png" /> 
+
+
 
 -----
 
